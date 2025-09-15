@@ -97,8 +97,8 @@ For this particular assignment, graded categories are as follows:
 | This is a composite score indicating how successfully the app demonstrates:<br/>• Responsive design<br/>• Effective aesthetic choices<br/>• Helpful feedback, especially when waiting for asynchronous operations<br/>• Graceful error handling (e.g., when a network request fails) | |
 | Implementation specifications | 15 points—all or nothing |
 | • Background image or gradient<br/>• Non-standard font<br/>• Grid layout<br/>• Flex layout<br/>• Title<br/>• Fun image(s)<br/>• Transition | |
-| App description in _about.md_ | 5 points total |
 | AI Review | 5 points |
+| App description in _about.md_ | 5 points total |
 | • App and API description | 2 points |
 | • Link to API documentation | 2 point |
 | • Link to app deployment | 1 point |
