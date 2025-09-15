@@ -12,7 +12,7 @@ We aren’t vanilla anymore 🍦
 * Read whatever [official React documentation](https://react.dev/learn) you might need—take note when web searching, because React has moved their documentation to a new site (see that link). It may take a while for the new location to propagate through search engines
 * Review Dr. Toal’s course notes on React and web service APIs. Follow any links in the notes that interest you
 * Take Eve Porcello’s React Essentials class on [LinkedIn Learning](https://www.linkedin.com/learning/react-js-essential-training-14836121) (access it via [MYLMU](https://my.lmu.edu))
-* For even moar learning, go through The Net Ninja’s [Full Modern React Tutorial](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
+* For even more learning, go through The Net Ninja’s [Full Modern React Tutorial](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 * To solidify your Git abilities, read from the beginning through Chapters 3, and Chapters 5 and 6 of the [Git Book](https://git-scm.com/book/en/v2)—if you haven’t already done so, you can acquire a practice repository with _README.md_ at [this link](https://classroom.github.com/a/Xu9oeBgm) (you can always create a free one of course)
 
 ## For Submission
@@ -98,7 +98,7 @@ For this particular assignment, graded categories are as follows:
 | Implementation specifications | 15 points—all or nothing |
 | • Background image or gradient<br/>• Non-standard font<br/>• Grid layout<br/>• Flex layout<br/>• Title<br/>• Fun image(s)<br/>• Transition | |
 | App description in _about.md_ | 5 points total |
-| AI Review |
+| AI Review | 5 points |
 | • App and API description | 2 points |
 | • Link to API documentation | 2 point |
 | • Link to app deployment | 1 point |
